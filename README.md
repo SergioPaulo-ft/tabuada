@@ -1,2 +1,2 @@
-# tabuada
+# tabuada em js
  
